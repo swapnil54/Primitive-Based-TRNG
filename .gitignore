@@ -1,0 +1,50 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Vivado/Quartus/FPGA specific ignores
+*.jou
+*.log
+*.pb
+*.wdb
+*.dir/
+*.str
+*.zip
+*.rar
+.Xil/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.cache/
+*.runs/
+*.xpr
+
+# OS generated files
+.DS_Store
+Thumbs.db
